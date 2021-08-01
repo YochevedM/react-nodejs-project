@@ -1,0 +1,41 @@
+#top{
+    background-color: #41443E;
+    padding: 1%;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 600;
+    color:#E0E4E6;
+}
+
+#aboutImg{
+    width:100%;
+border-right: white;
+
+    
+    position: relative;
+  z-index: -2;
+}
+
+#wrap{
+    width: 60%;
+    box-shadow: inset 0px 0px 30px 30px white;
+    /* clip-path: inset(0px -15px 0px -15px) */
+}
+
+
+
+#info{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 550;
+    position: absolute;
+  top: 70%;
+  left: 80%;
+  transform: translate(-60%, -70%);
+  text-align: right;
+  font-size: 110%;
+  width: 30%;
+  color:#43463C;
+  line-height: 160%;
+}
+

@@ -1,0 +1,14 @@
+module.exports=[
+    {
+        email:"israel100@gmail.com",
+        firstName:"Israel",
+        lastName:"Israeli",
+        password:"48625"
+    },
+    {
+        email:"sara200@gmail.com",
+        firstName:"Sara",
+        lastName:"Cohen",
+        password:"49586"
+    }
+]

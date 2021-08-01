@@ -1,0 +1,12 @@
+#form{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 5%;
+    text-align: center;
+    /* background-color: #E2E5E7; */
+    border-style: solid;
+    border-color: #806650;
+    border-width: 1%;
+}
+
